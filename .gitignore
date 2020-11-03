@@ -1,3 +1,7 @@
+# ビルド時の生成物を除外
+bootblock
+bootblock.asm
+xv6.img
 
 # Created by https://www.toptal.com/developers/gitignore/api/vim,emacs,c
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,emacs,c
